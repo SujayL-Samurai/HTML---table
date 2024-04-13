@@ -1,0 +1,36 @@
+table=
+<tr> - table
+<th> - table row header
+<td> - table data
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+    <body bgcolor="#D6EAF8">
+
+     <h3><u>Store hours</u></h3>
+     
+     <table border="1" style="background-color: black;">
+        <tr align="center"  style="background-color:lightgoldenrodyellow">
+            <th width="90">Sunday</th>
+            <th width="90">Monday</th>
+            <th width="90">Tuesday</th>
+            <th width="90">Wednesday</th>
+            <th width="90">Thursday</th>
+            <th width="90">Friday</th>
+            <th width="90">Saturday</th>
+        </tr>
+        <tr align="center" style="background-color:lightgoldenrodyellow">
+            <td>Closed</td>
+            <td>10-7</td>
+            <td>10-7</td>
+            <td>10-7</td>
+            <td>10-7</td>
+            <td>10-7</td>
+            <td>10-7</td>
+        </tr>
+     </table>
+    </body>
+    </head>
+</html>
